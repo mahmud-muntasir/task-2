@@ -14,7 +14,7 @@ npm install
 npm run dev
 
 ---
-🛠 Framework & Tools
+## 🛠 Framework & Tools
 
 Next.js v15 – React framework for full-stack applications
 Tailwind CSS v4 – Utility-first CSS framework for styling
@@ -25,7 +25,7 @@ React Icons – Icon library for React components
 
 ---
 
-⚠️ Limitations & Tradeoffs
+##  ⚠️ Limitations & Tradeoffs
 
 CORS Issue in Production
 
